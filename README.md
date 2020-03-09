@@ -14,7 +14,7 @@
         font-family: 'Lato', sans-serif;
         margin: 1em auto;
         max-width: 50em;
-        height: 52.625em;
+        height: 59.625em;
       }
       #section-left {
         width: 35%;
