@@ -6,7 +6,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
     <style>
       html {
-        background-color: #444;
+        background-color: #4444;
         padding: 0 1em;
       }
       body {
