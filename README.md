@@ -6,7 +6,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
     <style>
       html {
-        background-color: #4444;
+        background-color: #444;
         padding: 0 1em;
       }
       body {
@@ -118,7 +118,7 @@
         <div class="logo"></div>
         <h1>Abdullah Alblooshi</h1>
         <div class="content">
-          <span class="dob">23 APR 1996</span> <br>
+          <span class="dob">17 Mar 2002</span> <br>
           <span class="intro">Developer</span> <br>
           <span class="title">GoLang</span>
         </div>
