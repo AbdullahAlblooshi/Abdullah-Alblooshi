@@ -116,7 +116,7 @@
     <div id="section-left">
       <div class="section intro">
         <div class="logo"></div>
-        <h1>Ram Bahadur</h1>
+        <h1>Abdullah Alblooshi</h1>
         <div class="content">
           <span class="dob">23 APR 1996</span> <br>
           <span class="intro">Developer</span> <br>
