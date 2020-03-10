@@ -133,7 +133,7 @@
           </div>
           <div class="web">
             <i class="fa fa-link" aria-hidden="true"></i>
-            <a href=""></a>
+            <a href="https://example.com"></a>
           </div>
         </div>
       </div>
@@ -146,21 +146,20 @@
             <i class="fa fa-user" aria-hidden="true"></i>
             Profile
           </div>
-          <p>I am a IT student in Mstate</p>
+          <p>I am an high school graduate</p>
         </div>
 
         <div class="section">
           <div class="title">
             <i class="fa fa-pencil" aria-hidden="true"></i>
-           
-        <div class="section">
-          <div class="title">
-            <i class="fa fa-book" aria-hidden="true"></i>
+         
+
+       
             Education
           </div>
           <p>I have completed my high school</p>
 
-   
+        </div>
 
         <div class="section">
           <div class="title">
@@ -174,4 +173,7 @@
           </ul>
         </div>
 
- 
+        <div class="section">
+          <div class="title">
+          
+</html>
