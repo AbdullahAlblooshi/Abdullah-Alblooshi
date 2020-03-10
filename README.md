@@ -14,7 +14,7 @@
         font-family: 'Lato', sans-serif;
         margin: 1em auto;
         max-width: 50em;
-        height: 80.625em;
+        height: 52.625em;
       }
       #section-left {
         width: 35%;
@@ -116,11 +116,11 @@
     <div id="section-left">
       <div class="section intro">
         <div class="logo"></div>
-        <h1>Abdullah Alblooshi</h1>
+        <h1>Ram Bahadur</h1>
         <div class="content">
-          <span class="dob">17 Mar 2002</span> <br>
-          <span class="intro">college student</span> <br>
-          <span class="title"></span>
+          <span class="dob">23 APR 1996</span> <br>
+          <span class="intro">Developer</span> <br>
+          <span class="title">GoLang</span>
         </div>
         <hr>
         <div id="contact">
@@ -129,11 +129,11 @@
 
           <div class="email">
             <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
-            <a href="aboodetube@gmail.com">aboodetube@gmail.com</a>
-      
+            <a href="mailto:rambahadur@example.com">aboodetube@gmail.com</a>
+          </div>
           <div class="web">
             <i class="fa fa-link" aria-hidden="true"></i>
-            <a href="</a>
+            <a href=""></a>
           </div>
         </div>
       </div>
@@ -146,24 +146,21 @@
             <i class="fa fa-user" aria-hidden="true"></i>
             Profile
           </div>
-          <p>I am an IT student in Mstate <p>
-          <white>
-          
-     
+          <p>I am a IT student in Mstate</p>
+        </div>
 
         <div class="section">
           <div class="title">
             <i class="fa fa-pencil" aria-hidden="true"></i>
-         
-
+           
         <div class="section">
           <div class="title">
             <i class="fa fa-book" aria-hidden="true"></i>
             Education
           </div>
-          <p>I have completed high school <p>
+          <p>I have completed my high school</p>
 
- 
+   
 
         <div class="section">
           <div class="title">
@@ -171,10 +168,10 @@
             Skills
           </div>
           <ul>
-            <li>Adaptability</li>
-            <li>Organisation</li>
-            <li>Hardworking</li>
+            <li>Programming</li>
+            <li>Photo Editing</li>
+            <li>Project Management</li>
           </ul>
         </div>
 
-     
+ 
