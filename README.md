@@ -119,21 +119,21 @@
         <h1>Abdullah Alblooshi</h1>
         <div class="content">
           <span class="dob">17 Mar 2002</span> <br>
-          <span class="intro">Developer</span> <br>
-          <span class="title">GoLang</span>
+          <span class="intro">college student</span> <br>
+          <span class="title"></span>
         </div>
         <hr>
         <div id="contact">
 
-          <span class="num">9843xxxxxx</span>
+          <span class="num">701-799-7979</span>
 
           <div class="email">
             <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
-            <a href="mailto:rambahadur@example.com">rambahadur@example.com</a>
+            <a href="aboodetube@gmail.com">rambahadur@example.com</a>
           </div>
           <div class="web">
             <i class="fa fa-link" aria-hidden="true"></i>
-            <a href="https://example.com">www.example.com</a>
+            <a href="</a>
           </div>
         </div>
       </div>
@@ -146,39 +146,20 @@
             <i class="fa fa-user" aria-hidden="true"></i>
             Profile
           </div>
-          <p>I am an intermediately experienced developer</p>
+          <p>I am an IT student in Mstate</p>
         </div>
 
         <div class="section">
           <div class="title">
             <i class="fa fa-pencil" aria-hidden="true"></i>
-            Experience
-          </div>
-          <div class="content">
-            <h2>Web Developer</h2>
-            <h3>Company | AUG 2016 &raquo; Current</h3>
-            <ul>
-              <li>Develop feature for the platform</li>
-              <li>Develop feature for the platform</li>
-            </ul>
-          </div>
-
-          <div class="content">
-            <h2>Web Developer</h2>
-            <h3>Company | AUG 2016 &raquo; Current</h3>
-            <ul>
-              <li>Develop feature for the platform</li>
-              <li>Develop feature for the platform</li>
-            </ul>
-          </div>
-        </div>
+         
 
         <div class="section">
           <div class="title">
             <i class="fa fa-book" aria-hidden="true"></i>
             Education
           </div>
-          <p>I have completed my Bachelors Degree and currently pursuing masters</p>
+          <p>I have completed high school <p>
 
         </div>
 
@@ -188,24 +169,13 @@
             Skills
           </div>
           <ul>
-            <li>Programming</li>
-            <li>Photo Editing</li>
-            <li>Project Management</li>
+            <li>Adaptability</li>
+            <li>Organisation</li>
+            <li>Hardworking</li>
           </ul>
         </div>
 
         <div class="section">
           <div class="title">
             <i class="fa fa-trophy" aria-hidden="true"></i>
-            Awards
-          </div>
-          <div class="content">
-            <h2>National Coding Championship</h2>
-            <h3>Champion</h3>
-            <span class="date">2006</span>
-          </div>
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
+         
