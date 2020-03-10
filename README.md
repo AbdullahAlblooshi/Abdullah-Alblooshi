@@ -147,6 +147,7 @@
             Profile
           </div>
           <p>I am an IT student in Mstate <p>
+          <white>
           
      
 
