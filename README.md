@@ -116,12 +116,12 @@
     <div id="section-left">
       <div class="section intro">
         <div class="logo"></div>
-        <h1>Ram Bahadur</h1>
+        <h1>Abdullah Alblooshi</h1>
         <div class="content">
-          <span class="dob">23 APR 1996</span> <br>
-          <span class="intro">Developer</span> <br>
-          <span class="title">GoLang</span>
-        </div>
+          <span class="dob">17 MAR 2002</span> <br>
+          <span class="intro">College student</span> <br>
+          <span class="title"></span>
+      
         <hr>
         <div id="contact">
 
