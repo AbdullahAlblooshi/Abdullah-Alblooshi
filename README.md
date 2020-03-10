@@ -146,7 +146,7 @@
             <i class="fa fa-user" aria-hidden="true"></i>
             Profile
           </div>
-          <p>I am an IT student in Mstate <p> <red>
+          <p>I am an IT student in Mstate <p>
           
      
 
