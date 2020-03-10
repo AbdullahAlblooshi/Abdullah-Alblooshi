@@ -146,7 +146,7 @@
             <i class="fa fa-user" aria-hidden="true"></i>
             Profile
           </div>
-          <p>I am an high school graduate</p>
+          <p>I am a hardworking and ambitious individual with a great passion of coding. I have excellent communication skills, enabling me to effectively communicate with a wide range of people. I am seeing a part-time position in the industry in which I can put into practice my knowledge and experience, ultimately benefiting the operations of the organisation that I work for.</p>
         </div>
 
         <div class="section">
