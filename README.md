@@ -130,7 +130,7 @@
           <div class="email">
             <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
             <a href="aboodetube@gmail.com">aboodetube@gmail.com</a>
-          </div>
+      
           <div class="web">
             <i class="fa fa-link" aria-hidden="true"></i>
             <a href="</a>
@@ -146,8 +146,9 @@
             <i class="fa fa-user" aria-hidden="true"></i>
             Profile
           </div>
-          <p>I am an IT student in Mstate
-        </div>
+          <p>I am an IT student in Mstate <p>
+          <red>
+     
 
         <div class="section">
           <div class="title">
