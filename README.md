@@ -121,7 +121,7 @@
           <span class="dob">17 MAR 2002</span> <br>
           <span class="intro">College student</span> <br>
           <span class="title"></span>
-      
+        </div>
         <hr>
         <div id="contact">
 
