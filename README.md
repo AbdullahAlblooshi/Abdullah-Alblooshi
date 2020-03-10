@@ -168,9 +168,9 @@
             Skills
           </div>
           <ul>
-            <li>Programming</li>
-            <li>Photo Editing</li>
-            <li>Project Management</li>
+            <li>Creativity</li>
+            <li>Adaptability</li>
+            <li>Hardworking</li>
           </ul>
         </div>
 
